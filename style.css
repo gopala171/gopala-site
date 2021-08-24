@@ -127,6 +127,14 @@ section h1 {
     background-color: var(--off-white);
 }
 
+/**blogs**/
+.blogs .container-center {
+    max-width: 800px;
+}
+.blogs small {
+    text-align: center;
+}
+
 /**Footer**/
 footer {
     background-color: var(--primary-color);
